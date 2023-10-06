@@ -1,5 +1,4 @@
 # ForwardKinematics
-C++ program for calculating forward kinematics of a user defined Robot Manipulator
 
 Calculating end effector position of a user defined Robot Manipulator with arbitrary number of degrees of freedom, joint types and DH parameters.
 

@@ -1,3 +1,0 @@
-C:/Users/v/CLionProjects/CPProbot/cmake-build-debug/CMakeFiles/CPProbot.dir
-C:/Users/v/CLionProjects/CPProbot/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/v/CLionProjects/CPProbot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
